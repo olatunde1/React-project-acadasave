@@ -1,4 +1,8 @@
 import React from 'react'
+import img1 from "../images/img1.png"
+import img22 from "../images/img22.png"
+import img33 from "../images/img33.png"
+import img44 from "../images/img44.png"
 
 const How = () => {
   return (
@@ -7,37 +11,54 @@ const How = () => {
             <h4>How it Works</h4>
             <div class="col-sm-3">
                 <div class="card">
-                <img src="..." class="card-img-top" alt="..."/>
+                <img src={img1} class="card-img-top" alt="..."/>
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <h5 class="card-title">Register</h5><br/>
+            <p class="card-text">Lorem ipsum dolor sit amet 
+            consectetur adipisicing elit. 
+            Quaerat saepe voluptatem provident 
+            voluptatibus exercitationem facere natus tempore
+            dignissimos suscipit harum placeat repellendus totam sequi.</p>
                 </div>
                 </div>
             </div>
             <div class="col-sm-3">
                 <div class="card">
-                <img src="..." class="card-img-top" alt="..."/>
+                <img src={img22} class="card-img-top" alt="..."/>
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <h5 class="card-title">Save</h5> <br />
+            <p class="card-text">Lorem ipsum dolor sit amet 
+            consectetur adipisicing elit. 
+            Quaerat saepe voluptatem provident 
+            voluptatibus exercitationem facere natus tempore
+            dignissimos suscipit harum placeat repellendus totam sequi.</p>                
                 </div>
                 </div>
             </div>
             <div class="col-sm-3">
                 <div class="card">
-                <img src="..." class="card-img-top" alt="..."/>
+                <img src={img33} class="card-img-top" alt="..."/>
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+                    <h5 class="card-title">Get Interest</h5><br />
+            <p class="card-text">Lorem ipsum dolor sit amet 
+            consectetur adipisicing elit. 
+            Quaerat saepe voluptatem provident 
+            voluptatibus exercitationem facere natus tempore
+            dignissimos suscipit harum placeat repellendus totam sequi.</p>
                 </div>
                 </div>
             </div>
             <div class="col-sm-3">
                 <div class="card">
-                <img src="..." class="card-img-top" alt="..."/>
+                <img src={img44} class="card-img-top" alt="..."/>
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <h5 class="card-title">Withdraw</h5>
+                    <br />
+            <p class="card-text">Lorem ipsum dolor sit amet 
+            consectetur adipisicing elit. 
+            Quaerat saepe voluptatem provident 
+            voluptatibus exercitationem facere natus tempore
+            dignissimos suscipit harum placeat repellendus totam sequi.</p>
                 </div>
                 </div>
             </div>
