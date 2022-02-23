@@ -1,0 +1,32 @@
+.savingFuture{
+    margin-bottom: 0;
+}
+.savingFuture img{
+    width: 100%;
+}
+.savingFuture h2{
+    margin-top: 70px;
+    text-align: left;
+    font-weight: 900;
+    font-size: 44px;
+    color:  #270049;
+    line-height: normal;
+    
+}
+.savingFuture p{
+    font-size: 12px;
+    text-align: left;
+    line-height: normal;
+
+}
+.savingFuture .btnStart{
+    background-color: #725ac1;
+    color: #ffffff; 
+    padding: 10px 40px ;
+    border-radius: 5px;
+    border: none;
+    
+}
+.savingFuture .startButton{
+    text-align: left;
+}
