@@ -4,8 +4,9 @@
 .how-it-works h4{
     text-align: left;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     color:  #270049;
+    font-weight: bold;
 }
 .card img{
     margin-top: 30px;
@@ -18,7 +19,13 @@
 .card{
     text-align: center;
     align-content:center;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
     box-shadow: 10px 10px 10px #cbc3d1;
     margin-bottom: 30px;
+}
+.card .card-footer{
+    background-color: #e74a36;
+    color: #ffffff !important;
+    padding: 4px;
+    
 }

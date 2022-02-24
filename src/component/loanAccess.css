@@ -1,0 +1,45 @@
+.loan-caption{
+    margin-top: 150px;
+    text-align: left;
+    padding-left: 70px;
+}
+
+.loan-caption h2{
+    color:  #270049;
+    font-weight: 700;
+  
+}
+
+.loan-caption .LoanButton{
+    background-color: #725ac1;
+    color: #ffffff;
+    padding: 10px 40px ;
+    border-radius: 5px;
+    border: none;
+}
+.loan-caption .question{
+    text-align: right;
+    font-weight: bold;
+    font-size: 24px;
+    color: #270049;
+    margin-right: 0;
+    width: 100%;
+    
+}
+.loan-img{
+    
+    width: 100%;
+    margin: 0;
+    margin-top: 40px;
+    text-align: left;
+
+}
+
+.loan-caption p{
+    color: #b8b8b8;
+    font-size: 20px;
+    line-height: normal;
+}
+.Access-loan{
+    margin-bottom: 100px;
+}

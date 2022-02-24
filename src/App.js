@@ -3,6 +3,8 @@ import './App.css';
 import  Navigation  from "./component/Navigation"
 import  Saving from "./component/Saving"
 import How from "./component/How"
+import LoanAccess from "./component/LoanAccess"
+import Internship from "./component/Internship"
 
 function App() {
   return (
@@ -10,6 +12,8 @@ function App() {
       < Navigation />
       < Saving />
       < How />
+      < LoanAccess />
+      < Internship />
     </div>
   );
 }

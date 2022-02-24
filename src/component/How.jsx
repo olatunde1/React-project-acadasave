@@ -9,58 +9,69 @@ const How = () => {
   return (
     <section className='how-it-works'>
         <div className='container'>
-            <div class="row ">
+            <div className="row ">
                 <h4>How it Works</h4>
-                <div class="col-sm-3">
-                    <div class="card border-0">
-                        <img src={img1} class="card-img-top" alt="..."/>
-                        <div class="card-body">
-                            <h5 class="card-title">Register</h5><br/>
-                            <p class="card-text">Lorem ipsum dolor sit amet 
+                <div className="col-sm-3">
+                    <div className="card border-0">
+                        <img src={img1} className="card-img-top" alt="..."/>
+                        <div className="card-body">
+                            <br />
+                            <h5 className="card-title">Register</h5><br/>
+                            <p className="card-text">Lorem ipsum dolor sit amet 
                             consectetur adipisicing elit. 
                             Quaerat saepe voluptatem provident 
                             voluptatibus exercitationem facere natus tempore
                             dignissimos suscipit harum placeat repellendus totam sequi.</p>
                         </div>
+                        <div class="card-footer">
+                        </div>
                     </div>
                 </div>
-                <div class="col-sm-3">
-                    <div class="card border-0">
-                        <img src={img22} class="card-img-top" alt="..."/>
-                        <div class="card-body">
-                            <h5 class="card-title">Save</h5> <br />
-                            <p class="card-text">Lorem ipsum dolor sit amet 
+                <div className="col-sm-3">
+                    <div className="card border-0">
+                        <img src={img22} className="card-img-top" alt="..."/>
+                        <div className="card-body">
+                            <br />
+                            <h5 className="card-title">Save</h5> <br />
+                            <p className="card-text">Lorem ipsum dolor sit amet 
                             consectetur adipisicing elit. 
                             Quaerat saepe voluptatem provident 
                             voluptatibus exercitationem facere natus tempore
                             dignissimos suscipit harum placeat repellendus totam sequi.</p>                
                         </div>
+                        <div class="card-footer">
+                        </div>
                     </div>
                 </div>
-                <div class="col-sm-3">
-                    <div class="card border-0">
-                        <img src={img33} class="card-img-top" alt="..."/>
-                        <div class="card-body">
-                            <h5 class="card-title">Get Interest</h5><br />
-                            <p class="card-text">Lorem ipsum dolor sit amet 
+                <div className="col-sm-3">
+                    <div className="card border-0">
+                        <img src={img33} className="card-img-top" alt="..."/>
+                        <div className="card-body">
+                            <br />
+                            <h5 className="card-title">Get Interest</h5><br />
+                            <p className="card-text">Lorem ipsum dolor sit amet 
                             consectetur adipisicing elit. 
                             Quaerat saepe voluptatem provident 
                             voluptatibus exercitationem facere natus tempore
                             dignissimos suscipit harum placeat repellendus totam sequi.</p>
                         </div>
+                        <div class="card-footer">
+                        </div>
                     </div>
                 </div>
-                <div class="col-sm-3">
-                    <div class="card border-0">
-                        <img src={img44} class="card-img-top" alt="..."/>
-                        <div class="card-body">
-                            <h5 class="card-title">Withdraw</h5>
+                <div className="col-sm-3">
+                    <div className="card border-0">
+                        <img src={img44} className="card-img-top" alt="..."/>
+                        <div className="card-body">
+                            <h5 className="card-title">Withdraw</h5>
                             <br />
-                            <p class="card-text">Lorem ipsum dolor sit amet 
+                            <p className="card-text">Lorem ipsum dolor sit amet 
                             consectetur adipisicing elit. 
                             Quaerat saepe voluptatem provident 
                             voluptatibus exercitationem facere natus tempore
                             dignissimos suscipit harum placeat repellendus totam sequi.</p>
+                        </div>
+                        <div class="card-footer">
                         </div>
                     </div>
                 </div>
