@@ -1,0 +1,24 @@
+.how-it-works{
+    position: relative;
+}
+.how-it-works h4{
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:  #270049;
+}
+.card img{
+    margin-top: 30px;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: none;
+}
+.card{
+    text-align: center;
+    align-content:center;
+    background-color: #ffffff;
+    box-shadow: 10px 10px 10px #cbc3d1;
+    margin-bottom: 30px;
+}
