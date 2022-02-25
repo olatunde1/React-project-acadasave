@@ -1,0 +1,38 @@
+.interest-rate{
+    margin-top: 180px;
+    text-align: left;
+    padding-left: 70px;
+}
+
+.interest-rate h2{
+    color:  #270049;
+  
+}
+
+.interest-rate .intButton{
+    background-color: #725ac1;
+    color: #ffffff;
+    padding: 10px 40px ;
+    border-radius: 5px;
+    border: none;
+}
+
+.int-rate img{
+    width: 100%;
+    margin: 0;
+    margin-top: 120px;
+
+   
+}
+
+.interest-rate p{
+    color: #b8b8b8;
+    font-size: 20px;
+    line-height: normal;
+}
+.Access-loan{
+    margin-bottom: 100px;
+}
+.int-rate-savings{
+    margin-bottom: 150px;
+}

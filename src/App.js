@@ -5,6 +5,9 @@ import  Saving from "./component/Saving"
 import How from "./component/How"
 import LoanAccess from "./component/LoanAccess"
 import Internship from "./component/Internship"
+import Rate from "./component/Rate"
+import Packages from "./component/Packages"
+
 
 function App() {
   return (
@@ -14,6 +17,9 @@ function App() {
       < How />
       < LoanAccess />
       < Internship />
+      < Rate />
+      < Packages />
+      
     </div>
   );
 }

@@ -15,7 +15,7 @@ const How = () => {
                     <div className="card border-0">
                         <img src={img1} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                            <br />
+                            <br /><br />
                             <h5 className="card-title">Register</h5><br/>
                             <p className="card-text">Lorem ipsum dolor sit amet 
                             consectetur adipisicing elit. 
@@ -31,7 +31,7 @@ const How = () => {
                     <div className="card border-0">
                         <img src={img22} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                            <br />
+                            <br /><br />
                             <h5 className="card-title">Save</h5> <br />
                             <p className="card-text">Lorem ipsum dolor sit amet 
                             consectetur adipisicing elit. 
@@ -47,7 +47,7 @@ const How = () => {
                     <div className="card border-0">
                         <img src={img33} className="card-img-top" alt="..."/>
                         <div className="card-body">
-                            <br />
+                            <br /><br />
                             <h5 className="card-title">Get Interest</h5><br />
                             <p className="card-text">Lorem ipsum dolor sit amet 
                             consectetur adipisicing elit. 

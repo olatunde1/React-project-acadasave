@@ -20,13 +20,14 @@
 .signUp:hover{
     background-color: #725ac1;
     color: #ffffff; 
-    padding: 10px 20px ;
+    padding: 5px 20px ;
     border-radius: 5px;
-    border: none;
+
 }
 
 .nav-link:hover{
    color: #222222 !important;
+   border-bottom: 3px solid #270049;
 }
 
 

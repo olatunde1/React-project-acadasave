@@ -8,9 +8,9 @@
     color:  #270049;
     font-weight: bold;
 }
-.card img{
+.card img img{
     margin-top: 30px;
-    width: 50%;
+    max-width: 50%;
     margin: auto;
     margin-top: 20px;
     margin-bottom: 30px;

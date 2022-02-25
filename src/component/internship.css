@@ -6,8 +6,6 @@
 
 .loanAccess-caption h2{
     color:  #270049;
-    font-weight: 700;
-  
 }
 
 .loanAccess-caption .LoanButton{
@@ -18,7 +16,7 @@
     border: none;
 }
 
-.loan-access-img{
+.loan-access-img img{
     
     width: 100%;
     margin: 0;
