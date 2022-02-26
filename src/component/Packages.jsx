@@ -7,7 +7,7 @@ const Packages = () => {
       <div className='container'>
         <h2>Packages</h2>
       <div className="row">
-        <div className="col-sm-4">
+        <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
           <div class="card">
             <div class="card-header-color"><div class="card-header ">Student</div></div>
             <div class="card-body text-success">
@@ -24,7 +24,7 @@ const Packages = () => {
           </div>
         </div>
         
-        <div className="col-sm-4">
+        <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
           <div class="card">
           <div class="card-header-color"><div class="card-header card-header2">Parent</div></div>
           <div class="card-body text-success">
@@ -40,7 +40,7 @@ const Packages = () => {
           </div>
         </div>
 
-        <div className="col-sm-4">
+        <div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
           <div class="card">
           <div class="card-header-color"><div class="card-header card-header3">Gold Mine</div></div>
           <div class="card-body text-success">

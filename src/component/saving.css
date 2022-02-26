@@ -1,9 +1,10 @@
 .savingFuture{
-    margin-bottom: 0;
+    margin-bottom: 0 !important;
     margin-top: 20px;
 }
 .savingFuture img{
-    width: 100%;
+    margin-top: 50px;
+    max-width: 100%;
 }
 .savingFuture h2{
     margin-top: 70px;
@@ -33,4 +34,8 @@
 }
 .savingFuture .startButton{
     text-align: left;
+}
+.SavingAll .svg{
+    margin-top: 0;
+    padding: 0;
 }

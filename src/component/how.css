@@ -1,20 +1,21 @@
-.how-it-works{
-    position: relative;
-}
 .how-it-works h4{
+    margin-top: 0 !important;
     text-align: left;
-    margin-top: 20px;
     margin-bottom: 30px;
     color:  #270049;
     font-weight: bold;
 }
-.card img img{
+.card img{
     margin-top: 30px;
     max-width: 50%;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 40px;
     margin-bottom: 30px;
-    border: none;
+    
+}
+.how-it-works{
+    background-color:#f3f4f5;
+    margin-top: 0;
 }
 .card{
     text-align: center;

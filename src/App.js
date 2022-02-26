@@ -7,6 +7,8 @@ import LoanAccess from "./component/LoanAccess"
 import Internship from "./component/Internship"
 import Rate from "./component/Rate"
 import Packages from "./component/Packages"
+import Testimony from "./component/Testimony"
+import Footer from "./component/Footer"
 
 
 function App() {
@@ -19,6 +21,8 @@ function App() {
       < Internship />
       < Rate />
       < Packages />
+      < Testimony />
+      < Footer />
       
     </div>
   );
