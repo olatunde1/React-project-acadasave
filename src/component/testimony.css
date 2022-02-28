@@ -1,3 +1,33 @@
-.testimony-section{
-    margin-bottom: 80px;
+.testimony{
+    background-color: #F3F4F5;
+    margin:0px;
+    padding: 0px 15px;
+}
+.custFeed img{
+    margin-bottom: 20px;
+}
+.custFeed h4{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.testify{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    /* margin-right: 40px; */
+    background-color: #ffffff;
+    padding: 40px 40px;
+    margin-bottom: 70px;
+    width: ;
+    /* border: 2px solid blue;     */
+}
+.arrowLeft{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 15px;
+    background-color: #ffffff;
+    margin-right: 10px;
+}
+.arrowRight{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 15px;
+    background-color: #ffffff;
 }
